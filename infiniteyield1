@@ -149,5 +149,8 @@ wait(1)
 print('Script Enjecte Ediliyor.')
 wait(1)
 print('Script Enjecte Ediliyor')
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Beratkan15/Beratkan15/main/infiniteyield2", true))()
+
 wait(10)
 print('Infinite Yield Başarılı Bir Şekilde Başlatıldı✅')
